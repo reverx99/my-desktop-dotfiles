@@ -1,4 +1,8 @@
 # my-desktop-dotfiles
+
+![Ekran Görüntüsü - 2021-07-10 12-41-27](https://user-images.githubusercontent.com/79804960/125158838-3bc6a300-e17c-11eb-81cc-eef3a8eafa08.png)
+
+
 bspwm and sxhkd dotfiles.
 
 INSTALLING
