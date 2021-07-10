@@ -1,9 +1,9 @@
 # my-desktop-dotfiles
 
 
-![Ekran Görüntüsü - 2021-07-10 12-43-21](https://user-images.githubusercontent.com/79804960/125158879-74667c80-e17c-11eb-9c43-a9b87d58767b.png)
+![Ekran Görüntüsü - 2021-07-10 12-52-00](https://user-images.githubusercontent.com/79804960/125159084-c8be2c00-e17d-11eb-9ed2-f8ce501e1f02.png)
+![Ekran Görüntüsü - 2021-07-10 12-52-00](https://user-images.githubusercontent.com/79804960/125159083-c5c33b80-e17d-11eb-840d-ff669337cb17.png)
 
-![Ekran Görüntüsü - 2021-07-10 12-41-27](https://user-images.githubusercontent.com/79804960/125158838-3bc6a300-e17c-11eb-81cc-eef3a8eafa08.png)
 
 
 bspwm and sxhkd dotfiles.
