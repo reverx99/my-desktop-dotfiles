@@ -2,7 +2,8 @@
 
 
 ![Ekran Görüntüsü - 2021-07-10 12-52-00](https://user-images.githubusercontent.com/79804960/125159084-c8be2c00-e17d-11eb-9ed2-f8ce501e1f02.png)
-![Ekran Görüntüsü - 2021-07-10 12-52-00](https://user-images.githubusercontent.com/79804960/125159083-c5c33b80-e17d-11eb-840d-ff669337cb17.png)
+![Ekran Görüntüsü - 2021-07-10 12-47-33](https://user-images.githubusercontent.com/79804960/125159108-facf8e00-e17d-11eb-97de-f4ff4eb67aeb.png)
+
 
 
 
